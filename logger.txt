@@ -1,0 +1,283 @@
+2022-11-21 13:29:13,723 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 13:29:13,726 distributed_c10d.py [line:187] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:28:57,901 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:28:57,942 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:28:57,942 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:28:59,158 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:30:24,104 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:30:24,146 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:30:24,146 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:30:25,339 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:30:45,351 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:30:45,394 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:30:45,394 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:30:46,597 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:30:57,155 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:30:57,194 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:30:57,195 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:30:58,404 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:31:29,940 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:31:29,982 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:31:29,982 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:31:31,183 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:32:02,018 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:32:02,058 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:32:02,059 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:32:03,264 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:39:25,517 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:39:25,564 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:39:25,564 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:39:26,777 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:41:50,332 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:41:50,375 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:41:50,376 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:41:51,591 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 14:42:11,898 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 14:42:11,943 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 14:42:11,944 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 14:42:13,157 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 17:43:17,830 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 17:43:17,876 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 17:43:17,876 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 17:43:19,121 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 17:44:37,620 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 17:44:37,663 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 17:44:37,663 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 17:44:38,882 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 17:45:54,662 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 17:45:54,708 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 17:45:54,709 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 17:45:55,915 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 17:49:12,065 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 17:49:12,108 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 17:49:12,108 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 17:49:13,322 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 18:43:10,703 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 18:43:10,748 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 18:43:10,749 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 18:43:11,991 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 18:46:07,264 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 18:46:07,308 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 18:46:07,308 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 18:46:08,526 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 19:09:03,208 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 19:09:03,251 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 19:09:03,251 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 19:09:04,503 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 19:10:51,048 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 19:10:51,092 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 19:10:51,092 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 19:10:52,299 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 19:14:53,139 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 19:14:53,184 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 19:14:53,184 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 19:14:54,393 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 19:30:32,334 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 19:30:32,381 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 19:30:32,381 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 19:30:33,603 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 19:42:57,672 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 19:42:57,717 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 19:42:57,717 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 19:42:58,942 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 19:48:19,528 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 19:48:19,573 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 19:48:19,573 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 19:48:20,786 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 19:52:01,639 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 19:52:01,683 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 19:52:01,683 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 19:52:02,896 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 20:14:49,728 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 20:14:49,771 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 20:14:49,771 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 20:14:50,995 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 20:51:46,953 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 20:51:46,996 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 20:51:46,997 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 20:51:48,247 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 21:20:20,326 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:20:20,372 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:20:20,372 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:20:21,632 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 21:25:55,283 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:25:55,329 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:25:55,329 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:25:56,563 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 21:34:17,248 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:34:17,292 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:34:17,293 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:34:18,501 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 21:37:41,387 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:37:41,429 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:37:41,430 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:37:42,665 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 21:40:13,991 main.py [line:186] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:40:14,039 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:40:14,039 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:40:15,254 main.py [line:212] INFO:	Initialize model with xavier.
+2022-11-21 21:45:15,341 main.py [line:188] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:45:15,387 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:45:15,387 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:45:16,620 main.py [line:214] INFO:	Initialize model with xavier.
+2022-11-21 21:48:08,005 main.py [line:190] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:48:08,054 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:48:08,054 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:48:09,283 main.py [line:216] INFO:	Initialize model with xavier.
+2022-11-21 21:51:07,712 main.py [line:190] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 21:51:07,759 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 21:51:07,759 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 21:51:08,992 main.py [line:216] INFO:	Initialize model with xavier.
+2022-11-21 22:19:46,509 main.py [line:189] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 22:19:46,555 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 22:19:46,555 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 22:19:47,766 main.py [line:215] INFO:	Initialize model with xavier.
+2022-11-21 22:20:42,918 main.py [line:189] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 22:20:42,966 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 22:20:42,966 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 22:20:44,173 main.py [line:215] INFO:	Initialize model with xavier.
+2022-11-21 22:22:20,286 main.py [line:189] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 22:22:20,334 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 22:22:20,335 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 22:22:21,539 main.py [line:215] INFO:	Initialize model with xavier.
+2022-11-21 22:23:27,324 main.py [line:286] INFO:	epoch:1       time:63.70572s	lr:0.00000000	train_loss:26705.6258252	val_loss:24871.2391276	val_psnr:18.80591	val_ssim:0.57859
+2022-11-21 22:24:32,585 main.py [line:189] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 22:24:32,634 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 22:24:32,634 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 22:24:33,853 main.py [line:215] INFO:	Initialize model with xavier.
+2022-11-21 22:25:39,752 main.py [line:286] INFO:	epoch:1       time:63.73966s	lr:0.00000000	train_loss:26705.7553385	val_loss:24871.3591797	val_psnr:18.53898	val_ssim:0.57498
+2022-11-21 22:26:40,428 main.py [line:286] INFO:	epoch:2       time:60.62758s	lr:0.00001000	train_loss:25547.3615918	val_loss:22297.7547526	val_psnr:-71.11851	val_ssim:0.00000
+2022-11-21 22:27:41,171 main.py [line:286] INFO:	epoch:3       time:60.71205s	lr:0.00002000	train_loss:14398.2582048	val_loss:4126.9997314	val_psnr:-89.58980	val_ssim:0.00000
+2022-11-21 22:28:42,793 main.py [line:286] INFO:	epoch:4       time:61.58774s	lr:0.00003000	train_loss:3097.6435101	val_loss:2007.5150920	val_psnr:-90.85875	val_ssim:0.00000
+2022-11-21 22:29:43,449 main.py [line:286] INFO:	epoch:5       time:60.62521s	lr:0.00004000	train_loss:2226.8070306	val_loss:1868.5883423	val_psnr:-89.82394	val_ssim:0.00000
+2022-11-21 22:30:45,428 main.py [line:286] INFO:	epoch:6       time:61.94557s	lr:0.00005000	train_loss:1984.0763302	val_loss:1854.3717733	val_psnr:-91.78080	val_ssim:0.00000
+2022-11-21 22:31:46,084 main.py [line:286] INFO:	epoch:7       time:60.61990s	lr:0.00006000	train_loss:1929.7220650	val_loss:1562.3291321	val_psnr:-90.21438	val_ssim:0.00000
+2022-11-21 22:32:50,816 main.py [line:286] INFO:	epoch:8       time:64.69717s	lr:0.00007000	train_loss:1799.0652965	val_loss:1450.0648336	val_psnr:-90.38023	val_ssim:0.00000
+2022-11-21 22:38:17,535 main.py [line:189] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 22:38:17,582 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 22:38:17,582 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 22:38:18,810 main.py [line:215] INFO:	Initialize model with xavier.
+2022-11-21 22:39:28,523 main.py [line:286] INFO:	epoch:1       time:67.54723s	lr:0.00000000	train_loss:26705.6369629	val_loss:24871.2451172	val_psnr:22.71900	val_ssim:0.55375
+2022-11-21 22:40:29,031 main.py [line:286] INFO:	epoch:2       time:60.46710s	lr:0.00001000	train_loss:25405.9205160	val_loss:21921.4965169	val_psnr:-71.83299	val_ssim:0.00000
+2022-11-21 22:41:35,208 main.py [line:286] INFO:	epoch:3       time:66.14157s	lr:0.00002000	train_loss:14252.8427710	val_loss:4924.7597493	val_psnr:-89.25656	val_ssim:0.00000
+2022-11-21 22:42:36,161 main.py [line:286] INFO:	epoch:4       time:60.92002s	lr:0.00003000	train_loss:3513.8892944	val_loss:2387.4170003	val_psnr:-91.31411	val_ssim:0.00000
+2022-11-21 22:43:37,805 main.py [line:286] INFO:	epoch:5       time:61.61739s	lr:0.00004000	train_loss:2313.1296198	val_loss:1759.1356832	val_psnr:-90.41501	val_ssim:0.00000
+2022-11-21 22:44:39,531 main.py [line:286] INFO:	epoch:6       time:61.69149s	lr:0.00005000	train_loss:2037.7133036	val_loss:1572.0590800	val_psnr:-90.42368	val_ssim:0.00000
+2022-11-21 22:45:43,997 main.py [line:286] INFO:	epoch:7       time:64.43111s	lr:0.00006000	train_loss:1854.7310327	val_loss:1429.3969950	val_psnr:-91.00368	val_ssim:0.00000
+2022-11-21 22:46:48,602 main.py [line:286] INFO:	epoch:8       time:64.56921s	lr:0.00007000	train_loss:1849.4744285	val_loss:1469.6874817	val_psnr:-91.39173	val_ssim:0.00000
+2022-11-21 22:47:49,214 main.py [line:286] INFO:	epoch:9       time:60.57748s	lr:0.00008000	train_loss:1798.2286222	val_loss:1401.8128530	val_psnr:-90.45330	val_ssim:0.00000
+2022-11-21 22:48:50,141 main.py [line:286] INFO:	epoch:10      time:60.89255s	lr:0.00009000	train_loss:1751.4947975	val_loss:1652.7167297	val_psnr:-89.96400	val_ssim:0.00000
+2022-11-21 22:49:51,802 main.py [line:286] INFO:	epoch:11      time:61.62803s	lr:0.00010000	train_loss:1944.8462395	val_loss:1428.8450968	val_psnr:-90.32491	val_ssim:0.00000
+2022-11-21 22:50:53,677 main.py [line:286] INFO:	epoch:12      time:61.84303s	lr:0.00010000	train_loss:1727.5799881	val_loss:1303.7879038	val_psnr:-90.59316	val_ssim:0.00000
+2022-11-21 22:51:54,304 main.py [line:286] INFO:	epoch:13      time:60.59172s	lr:0.00010000	train_loss:1666.6871577	val_loss:1349.2129028	val_psnr:-90.69079	val_ssim:0.00000
+2022-11-21 22:52:55,539 main.py [line:286] INFO:	epoch:14      time:61.20311s	lr:0.00010000	train_loss:1627.6179762	val_loss:1438.6557719	val_psnr:-91.53347	val_ssim:0.00000
+2022-11-21 22:53:56,874 main.py [line:286] INFO:	epoch:15      time:61.30060s	lr:0.00010000	train_loss:1597.4326806	val_loss:1277.3248810	val_psnr:-90.93650	val_ssim:0.00000
+2022-11-21 22:55:03,641 main.py [line:286] INFO:	epoch:16      time:66.73119s	lr:0.00010000	train_loss:1565.3998241	val_loss:1265.6055318	val_psnr:-91.24983	val_ssim:0.00000
+2022-11-21 22:55:30,669 main.py [line:213] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 22:55:30,713 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 22:55:30,714 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 22:55:31,941 main.py [line:239] INFO:	Initialize model with xavier.
+2022-11-21 22:56:21,781 main.py [line:213] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 22:56:21,825 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 22:56:21,825 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 22:56:23,037 main.py [line:239] INFO:	Initialize model with xavier.
+2022-11-21 22:57:32,837 main.py [line:310] INFO:	epoch:1       time:67.67153s	lr:0.00000000	train_loss:26705.5909294	val_loss:24871.1975911	val_psnr:22.95988	val_ssim:0.55317
+2022-11-21 22:58:39,229 main.py [line:310] INFO:	epoch:2       time:66.34906s	lr:0.00001000	train_loss:25511.4796989	val_loss:21397.4202474	val_psnr:-69.26436	val_ssim:0.00000
+2022-11-21 22:59:45,244 main.py [line:310] INFO:	epoch:3       time:65.98612s	lr:0.00002000	train_loss:12650.2811328	val_loss:3536.7643799	val_psnr:-90.41424	val_ssim:0.00000
+2022-11-21 23:00:51,908 main.py [line:310] INFO:	epoch:4       time:66.63466s	lr:0.00003000	train_loss:2841.1791406	val_loss:2049.2208862	val_psnr:-90.20258	val_ssim:0.00000
+2022-11-21 23:01:59,612 main.py [line:310] INFO:	epoch:5       time:67.67844s	lr:0.00004000	train_loss:2121.9801695	val_loss:1578.3405965	val_psnr:-90.81118	val_ssim:0.00000
+2022-11-21 23:03:09,374 main.py [line:310] INFO:	epoch:6       time:69.73678s	lr:0.00005000	train_loss:1933.6097931	val_loss:1511.4289510	val_psnr:-91.04741	val_ssim:0.00000
+2022-11-21 23:04:18,884 main.py [line:310] INFO:	epoch:7       time:69.48416s	lr:0.00006000	train_loss:1881.4267660	val_loss:1454.9326233	val_psnr:-90.94829	val_ssim:0.00000
+2022-11-21 23:05:26,155 main.py [line:310] INFO:	epoch:8       time:67.23994s	lr:0.00007000	train_loss:1826.3376022	val_loss:1625.3244242	val_psnr:-89.88355	val_ssim:0.00000
+2022-11-21 23:06:32,400 main.py [line:310] INFO:	epoch:9       time:66.21971s	lr:0.00008000	train_loss:1812.1833093	val_loss:1487.1195699	val_psnr:-91.27348	val_ssim:0.00000
+2022-11-21 23:07:42,029 main.py [line:310] INFO:	epoch:10      time:69.59955s	lr:0.00009000	train_loss:1725.2685553	val_loss:1312.8872813	val_psnr:-91.19191	val_ssim:0.00000
+2022-11-21 23:08:51,864 main.py [line:310] INFO:	epoch:11      time:69.80416s	lr:0.00010000	train_loss:1785.0664695	val_loss:1301.7490885	val_psnr:-91.46360	val_ssim:0.00000
+2022-11-21 23:09:53,894 main.py [line:310] INFO:	epoch:12      time:62.00194s	lr:0.00010000	train_loss:1666.3919942	val_loss:1296.1598083	val_psnr:-91.38490	val_ssim:0.00000
+2022-11-21 23:11:00,150 main.py [line:310] INFO:	epoch:13      time:66.22467s	lr:0.00010000	train_loss:1670.1677069	val_loss:2023.5938151	val_psnr:-89.36066	val_ssim:0.00000
+2022-11-21 23:12:07,098 main.py [line:310] INFO:	epoch:14      time:66.91930s	lr:0.00010000	train_loss:1667.3620726	val_loss:1239.0506012	val_psnr:-90.82126	val_ssim:0.00000
+2022-11-21 23:13:31,165 main.py [line:214] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 23:13:31,214 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 23:13:31,214 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 23:13:32,461 main.py [line:240] INFO:	Initialize model with xavier.
+2022-11-21 23:14:43,874 main.py [line:311] INFO:	epoch:1       time:69.23996s	lr:0.00000000	train_loss:26705.7234521	val_loss:24871.3268880	val_psnr:25.10592	val_ssim:0.58865
+2022-11-21 23:15:55,674 main.py [line:311] INFO:	epoch:2       time:71.76496s	lr:0.00001000	train_loss:25673.2800000	val_loss:22185.7169922	val_psnr:17.70838	val_ssim:0.24652
+2022-11-21 23:17:06,366 main.py [line:311] INFO:	epoch:3       time:70.67191s	lr:0.00002000	train_loss:12303.1608936	val_loss:4003.3507731	val_psnr:14.71385	val_ssim:0.44938
+2022-11-21 23:18:19,810 main.py [line:311] INFO:	epoch:4       time:73.41439s	lr:0.00003000	train_loss:3097.3554948	val_loss:2072.1957316	val_psnr:14.67076	val_ssim:0.45047
+2022-11-21 23:19:30,233 main.py [line:311] INFO:	epoch:5       time:70.39142s	lr:0.00004000	train_loss:2255.4428526	val_loss:1772.9016886	val_psnr:15.73974	val_ssim:0.46232
+2022-11-21 23:20:37,550 main.py [line:311] INFO:	epoch:6       time:67.29720s	lr:0.00005000	train_loss:2025.9251451	val_loss:1508.8072062	val_psnr:15.29892	val_ssim:0.47060
+2022-11-21 23:21:47,131 main.py [line:311] INFO:	epoch:7       time:69.55321s	lr:0.00006000	train_loss:1946.4481183	val_loss:1451.9637370	val_psnr:17.03912	val_ssim:0.48239
+2022-11-21 23:22:49,042 main.py [line:311] INFO:	epoch:8       time:61.88833s	lr:0.00007000	train_loss:1877.9179506	val_loss:1537.4865845	val_psnr:16.27322	val_ssim:0.48377
+2022-11-21 23:24:50,779 main.py [line:214] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-21 23:24:50,827 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-21 23:24:50,827 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-21 23:24:52,057 main.py [line:240] INFO:	Initialize model with xavier.
+2022-11-21 23:26:02,639 main.py [line:311] INFO:	epoch:1       time:68.46218s	lr:0.00000000	train_loss:26705.6135921	val_loss:24871.2291016	val_psnr:25.28669	val_ssim:0.56823
+2022-11-21 23:27:11,699 main.py [line:311] INFO:	epoch:2       time:69.02548s	lr:0.00001000	train_loss:25717.4611979	val_loss:22739.5660156	val_psnr:17.98169	val_ssim:0.24691
+2022-11-21 23:28:21,223 main.py [line:311] INFO:	epoch:3       time:69.49261s	lr:0.00002000	train_loss:15081.7609420	val_loss:4442.2529297	val_psnr:15.12769	val_ssim:0.41609
+2022-11-21 23:29:28,680 main.py [line:311] INFO:	epoch:4       time:67.43064s	lr:0.00003000	train_loss:3197.2921497	val_loss:2041.8707723	val_psnr:14.56611	val_ssim:0.45271
+2022-11-21 23:30:36,070 main.py [line:311] INFO:	epoch:5       time:67.36133s	lr:0.00004000	train_loss:2258.3141624	val_loss:1797.8338074	val_psnr:15.83675	val_ssim:0.45926
+2022-11-21 23:31:42,093 main.py [line:311] INFO:	epoch:6       time:65.99263s	lr:0.00005000	train_loss:1998.4603994	val_loss:1707.8889709	val_psnr:16.38362	val_ssim:0.46709
+2022-11-21 23:32:48,258 main.py [line:311] INFO:	epoch:7       time:66.13572s	lr:0.00006000	train_loss:1875.6514498	val_loss:1462.3562337	val_psnr:17.58093	val_ssim:0.47832
+2022-11-21 23:33:55,313 main.py [line:311] INFO:	epoch:8       time:67.02575s	lr:0.00007000	train_loss:1832.5579250	val_loss:1728.4826172	val_psnr:18.23411	val_ssim:0.48520
+2022-11-21 23:35:02,043 main.py [line:311] INFO:	epoch:9       time:66.69929s	lr:0.00008000	train_loss:1847.8511017	val_loss:1362.0939219	val_psnr:17.25862	val_ssim:0.48449
+2022-11-21 23:36:09,501 main.py [line:311] INFO:	epoch:10      time:67.43255s	lr:0.00009000	train_loss:1791.7587631	val_loss:1640.7133728	val_psnr:18.76951	val_ssim:0.48875
+2022-11-21 23:37:16,325 main.py [line:311] INFO:	epoch:11      time:66.79374s	lr:0.00010000	train_loss:1844.3171675	val_loss:1821.7563599	val_psnr:18.11391	val_ssim:0.48793
+2022-11-21 23:38:22,444 main.py [line:311] INFO:	epoch:12      time:66.08971s	lr:0.00010000	train_loss:1753.2958921	val_loss:1311.0477122	val_psnr:17.98078	val_ssim:0.48192
+2022-11-21 23:39:30,150 main.py [line:311] INFO:	epoch:13      time:67.67562s	lr:0.00010000	train_loss:1691.4520234	val_loss:1398.3153158	val_psnr:17.83521	val_ssim:0.48854
+2022-11-21 23:40:37,502 main.py [line:311] INFO:	epoch:14      time:67.32538s	lr:0.00010000	train_loss:1732.9853784	val_loss:1303.5371857	val_psnr:17.03676	val_ssim:0.48236
+2022-11-21 23:41:50,013 main.py [line:311] INFO:	epoch:15      time:72.47997s	lr:0.00010000	train_loss:1660.8368030	val_loss:1247.5221985	val_psnr:16.64636	val_ssim:0.48266
+2022-11-21 23:42:59,284 main.py [line:311] INFO:	epoch:16      time:69.24356s	lr:0.00010000	train_loss:1736.3319298	val_loss:1469.9963175	val_psnr:16.87840	val_ssim:0.47715
+2022-11-21 23:44:06,872 main.py [line:311] INFO:	epoch:17      time:67.55864s	lr:0.00010000	train_loss:1595.6038525	val_loss:1513.8660400	val_psnr:15.84976	val_ssim:0.46978
+2022-11-21 23:45:13,639 main.py [line:311] INFO:	epoch:18      time:66.73553s	lr:0.00010000	train_loss:1682.3608600	val_loss:1258.3269806	val_psnr:17.66027	val_ssim:0.47103
+2022-11-21 23:46:21,466 main.py [line:311] INFO:	epoch:19      time:67.79858s	lr:0.00010000	train_loss:1564.8095899	val_loss:1430.1660726	val_psnr:17.41529	val_ssim:0.47199
+2022-11-21 23:47:22,176 main.py [line:311] INFO:	epoch:20      time:60.68278s	lr:0.00010000	train_loss:1565.7963320	val_loss:1236.9140747	val_psnr:18.13200	val_ssim:0.47373
+2022-11-21 23:48:30,941 main.py [line:311] INFO:	epoch:21      time:68.73456s	lr:0.00010000	train_loss:1598.5525227	val_loss:1283.3143117	val_psnr:18.09407	val_ssim:0.47228
+2022-11-21 23:49:41,907 main.py [line:311] INFO:	epoch:22      time:70.93653s	lr:0.00010000	train_loss:1511.3998384	val_loss:1204.3436605	val_psnr:17.36257	val_ssim:0.46035
+2022-11-21 23:50:52,549 main.py [line:311] INFO:	epoch:23      time:70.61620s	lr:0.00003000	train_loss:1435.8628212	val_loss:1225.4266998	val_psnr:17.73721	val_ssim:0.47072
+2022-11-21 23:51:57,714 main.py [line:311] INFO:	epoch:24      time:65.13861s	lr:0.00003000	train_loss:1425.5150851	val_loss:1240.9221191	val_psnr:17.36144	val_ssim:0.46317
+2022-11-21 23:53:07,647 main.py [line:311] INFO:	epoch:25      time:69.91359s	lr:0.00003000	train_loss:1410.9203764	val_loss:1232.4677317	val_psnr:17.64293	val_ssim:0.47032
+2022-11-21 23:54:14,725 main.py [line:311] INFO:	epoch:26      time:67.05718s	lr:0.00003000	train_loss:1411.7210174	val_loss:1259.2422770	val_psnr:16.81693	val_ssim:0.46742
+2022-11-21 23:55:21,871 main.py [line:311] INFO:	epoch:27      time:67.12217s	lr:0.00003000	train_loss:1410.8432558	val_loss:1210.9541290	val_psnr:17.62445	val_ssim:0.47050
+2022-11-21 23:56:29,554 main.py [line:311] INFO:	epoch:28      time:67.65730s	lr:0.00003000	train_loss:1398.8568255	val_loss:1220.4526174	val_psnr:17.76335	val_ssim:0.46914
+2022-11-21 23:57:39,168 main.py [line:311] INFO:	epoch:29      time:69.58366s	lr:0.00003000	train_loss:1385.0318923	val_loss:1172.5299571	val_psnr:17.89775	val_ssim:0.47042
+2022-11-21 23:58:48,901 main.py [line:311] INFO:	epoch:30      time:69.70606s	lr:0.00003000	train_loss:1374.2472181	val_loss:1175.6555328	val_psnr:17.49095	val_ssim:0.46794
+2022-11-21 23:59:59,739 main.py [line:311] INFO:	epoch:31      time:70.81755s	lr:0.00003000	train_loss:1377.2366103	val_loss:1180.5425110	val_psnr:18.07111	val_ssim:0.46768
+2022-11-22 00:01:08,628 main.py [line:311] INFO:	epoch:32      time:68.85857s	lr:0.00003000	train_loss:1364.6924127	val_loss:1160.7319570	val_psnr:17.49283	val_ssim:0.46757
+2022-11-22 00:02:16,726 main.py [line:311] INFO:	epoch:33      time:68.06562s	lr:0.00003000	train_loss:1358.2754114	val_loss:1250.8716156	val_psnr:16.25040	val_ssim:0.45737
+2022-11-22 00:03:27,511 main.py [line:311] INFO:	epoch:34      time:70.75885s	lr:0.00003000	train_loss:1351.8695999	val_loss:1168.0710042	val_psnr:17.89541	val_ssim:0.46546
+2022-11-22 00:04:36,968 main.py [line:311] INFO:	epoch:35      time:69.42821s	lr:0.00003000	train_loss:1345.0057031	val_loss:1183.7862498	val_psnr:18.30790	val_ssim:0.47214
+2022-11-22 00:05:50,020 main.py [line:311] INFO:	epoch:36      time:73.02356s	lr:0.00003000	train_loss:1336.0092395	val_loss:1171.8423574	val_psnr:17.24740	val_ssim:0.46409
+2022-11-22 00:06:59,466 main.py [line:311] INFO:	epoch:37      time:69.41944s	lr:0.00003000	train_loss:1328.1447446	val_loss:1186.6673411	val_psnr:16.45774	val_ssim:0.46779
+2022-11-22 00:08:07,434 main.py [line:311] INFO:	epoch:38      time:67.93621s	lr:0.00003000	train_loss:1358.9110951	val_loss:1153.6087687	val_psnr:17.49006	val_ssim:0.46787
+2022-11-22 00:09:15,577 main.py [line:311] INFO:	epoch:39      time:68.10920s	lr:0.00003000	train_loss:1327.8827549	val_loss:1167.8625326	val_psnr:17.51541	val_ssim:0.46512
+2022-11-22 00:10:24,498 main.py [line:311] INFO:	epoch:40      time:68.90000s	lr:0.00003000	train_loss:1310.4054294	val_loss:1175.6509969	val_psnr:16.83694	val_ssim:0.45584
+2022-11-22 00:11:38,115 main.py [line:311] INFO:	epoch:41      time:73.58857s	lr:0.00003000	train_loss:1312.9266620	val_loss:1135.0062714	val_psnr:16.88589	val_ssim:0.46548
+2022-11-22 00:12:45,861 main.py [line:311] INFO:	epoch:42      time:67.71445s	lr:0.00003000	train_loss:1307.9641086	val_loss:1164.5836945	val_psnr:16.20745	val_ssim:0.45997
+2022-11-22 00:13:54,669 main.py [line:311] INFO:	epoch:43      time:68.77556s	lr:0.00003000	train_loss:1318.1587770	val_loss:1230.9652293	val_psnr:16.58210	val_ssim:0.45888
+2022-11-22 00:15:02,914 main.py [line:311] INFO:	epoch:44      time:68.21440s	lr:0.00000900	train_loss:1279.2123100	val_loss:1135.7517731	val_psnr:16.98025	val_ssim:0.46352
+2022-11-22 00:16:09,254 main.py [line:311] INFO:	epoch:45      time:66.31339s	lr:0.00000900	train_loss:1276.0062725	val_loss:1138.7759349	val_psnr:16.82729	val_ssim:0.46320
+2022-11-22 00:17:18,667 main.py [line:311] INFO:	epoch:46      time:69.38660s	lr:0.00000900	train_loss:1274.8224078	val_loss:1129.8252797	val_psnr:16.54251	val_ssim:0.46146
+2022-11-22 00:18:27,917 main.py [line:311] INFO:	epoch:47      time:69.23008s	lr:0.00000900	train_loss:1273.4466567	val_loss:1130.8937510	val_psnr:16.38988	val_ssim:0.46170
+2022-11-22 00:19:36,414 main.py [line:311] INFO:	epoch:48      time:68.46892s	lr:0.00000900	train_loss:1278.0624426	val_loss:1152.2502136	val_psnr:16.42587	val_ssim:0.45968
+2022-11-22 00:20:46,556 main.py [line:311] INFO:	epoch:49      time:70.11238s	lr:0.00000900	train_loss:1272.6545727	val_loss:1127.6675537	val_psnr:16.78294	val_ssim:0.46395
+2022-11-22 00:21:53,197 main.py [line:311] INFO:	epoch:50      time:66.61456s	lr:0.00000900	train_loss:1273.6715456	val_loss:1127.8146606	val_psnr:16.23823	val_ssim:0.46032
+2022-11-22 00:23:00,493 main.py [line:311] INFO:	epoch:51      time:67.26361s	lr:0.00000900	train_loss:1268.1011694	val_loss:1131.2531921	val_psnr:16.32379	val_ssim:0.45978
+2022-11-22 00:23:00,522 main.py [line:335] INFO:	The experiment is early stop!
+2022-11-22 23:24:14,024 main.py [line:213] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-22 23:24:14,074 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-22 23:24:14,075 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-22 23:24:15,325 main.py [line:239] INFO:	Initialize model with xavier.
+2022-11-26 16:52:16,840 main.py [line:213] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-26 16:52:16,891 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-26 16:52:16,891 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-26 16:52:18,138 main.py [line:239] INFO:	Initialize model with xavier.
+2022-11-26 16:53:35,248 main.py [line:213] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-26 16:53:35,299 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-26 16:53:35,299 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-26 16:53:36,529 main.py [line:239] INFO:	Initialize model with xavier.
+2022-11-26 16:54:50,473 main.py [line:310] INFO:	epoch:1       time:71.73300s	lr:0.00000000	train_loss:26705.5548600	val_loss:24871.1669271	val_psnr:25.07143	val_ssim:0.58471
+2022-11-26 16:56:00,489 main.py [line:310] INFO:	epoch:2       time:69.97636s	lr:0.00001000	train_loss:25770.1559098	val_loss:22725.3421224	val_psnr:18.00911	val_ssim:0.25712
+2022-11-27 19:45:08,997 main.py [line:213] INFO:	Running distributed data parallel on 1 gpus.
+2022-11-27 19:45:09,043 distributed_c10d.py [line:319] INFO:	Added key: store_based_barrier_key:1 to store for rank: 0
+2022-11-27 19:45:09,044 distributed_c10d.py [line:354] INFO:	Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 1 nodes.
+2022-11-27 19:45:10,252 main.py [line:239] INFO:	Initialize model with xavier.
